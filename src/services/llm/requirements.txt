@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langchain-mongodb
+langchain-text-splitters
+fastapi[standard]
+pypdf
